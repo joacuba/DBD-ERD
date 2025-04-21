@@ -18,5 +18,5 @@ These diagrams are created using the **ERD Editor** plugin for Visual Studio Cod
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
 2. Install the [ERD-Editor plugin](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode)
-3. Open this repository in VS Code
+3. Clone and then open this repository in VS Code
 4. Use the plugin to view or edit ERD files
